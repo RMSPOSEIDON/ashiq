@@ -4,7 +4,7 @@
  * This class includes methods for addition, subtraction, multiplication, and division.
  * </p>
  * 
- * @author rohith
+ * @author shivada-54,ashique-42,athu-24
  * @version 1.0
  */
 public class Calculator {
